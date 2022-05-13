@@ -1,0 +1,5 @@
+network_id: reducer-network
+controller:
+    discover_host: reducer
+    discover_port: 8090
+    token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NTgwOTYyNDAsImlhdCI6MTY1MDMyMDI0MCwic3RhdHVzIjoiU3VjY2VzcyJ9.yElsS3sauPEgkm18pG7bNmM0LvCqlZotUAMHdol5ndo
